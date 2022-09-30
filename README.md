@@ -3,6 +3,8 @@
 ## README for the code
 "A Monster's Insight" was made for the game jam NaNoReNo 2021 using Python and an extension of Pygame (known as RenPy). A lot of the code here is formatted dialogue so it can be properly interpreted by the game to run, but there are plenty of original scripts related to custom gameplay, UI and graphic rendering. For simplicity, everything (including dialogue), will be uploaded to this repository.
 
+The files chapter1.rpy to chapter4.rpy is the dialogue. Every other file within the games directory is related to gameplay, graphics or UI.
+
 To run "A Monster's Insight" you can access the downloads on this page https://arkicade.itch.io/a-monsters-insight or if one has Ren'Py installed you can open a new project and replace all the files with whatever is in this repository.
 
 ## README in the original game's file
